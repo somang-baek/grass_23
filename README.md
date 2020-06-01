@@ -1,4 +1,4 @@
-# 잔디심기 repository입니당
+# 잔디심기 repository입니당 :)
 # grass_23
 
 ## bible
